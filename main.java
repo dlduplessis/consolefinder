@@ -188,7 +188,6 @@ public class Bot {
         System.out.println("3. Amazon");
         System.out.println("4. All Stores");
         System.out.println("5. Test Alerts");
-
     }
 
     public static void neweggPS5() {
